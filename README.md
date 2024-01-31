@@ -1,15 +1,17 @@
 # Introduction-to-HTML
 
-Understanding the fundamental syntax of HTML elements-HTML element components 
-Formatting and styling content in HTML
-Incorporating time and date inputs
-Working with graphics and Adding images into HTML pages 
-Workng with figures and figcaption elements 
-Establishing hyperlinks and creating clickable links
-Utilizing global HTML attributes
-Working with the audio and video element
-Developing navigation menus and structures 
-Organizing and structuring content effectively 
+Understanding the fundamental syntax of HTML elements-HTML element components. 
+
+Formatting and styling content in HTML.
+
+Incorporating time and date inputs.
+Working with graphics and Adding images into HTML pages.
+Workng with figures and figcaption elements. 
+Establishing hyperlinks and creating clickable links.
+Utilizing global HTML attributes.
+Working with the audio and video element.
+Developing navigation menus and structures. 
+Organizing and structuring content effectively. 
 Contsructing interactive forms 
 Creating tables to display data
 Functions of HTML
