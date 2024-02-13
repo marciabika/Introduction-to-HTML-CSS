@@ -14,22 +14,38 @@ Formatting and styling content in HTML.
 Formatting elements were designed to desplay special types of text. 
 The purpose of HTML markup is to give meaning to the content and help computers understand it. HTML contains several elements for defining text with a special meaning.
 These are the different types of elemenrs used to format and style text:
-<p></p>-paragraph
-<h1></h1> to <h6></h6>-headings
-<i></i>-making a text italic
-<em></em>to emphasise on a text
-<strong></strong>to show importance to a certain word
-<b></b>To make a text bold
-<ul></ul>Unordered list
-<ol></ol>Ordered list(usually the list is in numbers
-<li></li>List
-<dl></dl>Difnition list
-<dt></dt> Unordered difnition list
+
+p-paragraph
+
+h1 to h2-headings
+
+i-making a text italic
+
+em-to emphasise on a text
+
+strong-to show importance to a certain word
+
+b-To make a text bold
+
+ul-Unordered list
+
+ol-Ordered list(usually the list is in numbers
+
+li-List
+
+dl-Difnition list
+
+dt-Unordered difnition list
+
 <dd></dd>Ordered difnition list
-<form></form>for creating a form
-<label></label>used in a form 
-<input>also used in a form to create a text field
-<nav></nav>List of links like home, contact us, about us e.t.c
+
+form-for creating a form
+
+label-used in a form 
+
+input-also used in a form to create a text field
+
+nav-List of links like home, contact us, about us e.t.c
 
 
 
