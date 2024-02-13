@@ -50,7 +50,7 @@ To make it accessible to everyone, we need to address the issue of the label and
 Both methods work, and it is a matter of choosing the desired markup structure. You can test the connection by clicking on the label and ensuring that the focus jumps to the corresponding input. This is crucial for accessibility, as many people rely on this connection. Clicking on the label is a quick way to verify its functionality. 
 
 nav-List of links like home, contact us, about us e.t.c
-The <nav> tag is used for defining navigation sections on a
+The nav tag is used for defining navigation sections on a
 webpage. It serves to organize and present links that facilitate
 user navigation within or outside the current webpage which helps
 users move around the website with ease.
@@ -61,6 +61,14 @@ Incorporating time and date inputs.
 
 
 Working with graphics and Adding images into HTML pages.
+There are four main file formats commonly used on the web these days, each with its own strengths and weaknesses when it comes to compressing images. 
+GIF-GIFs are great for compressing illustrations that have large areas of the same color, but it falls short when it comes to photographs. It only supports 256 colors, and images can end up looking pixelated, unless you want that retro vibe. 
+
+JPG-JPGs are a popular choice for compressing photographs. Most digital cameras save images in JPG format, but when placed on the web, it is important to resize and compress them appropriately. 
+
+PNG-PNG is a newer format that works well when you need transparency in a photograph. It sometimes outperforms both GIF and JPG in compressing certain types of images.
+
+SVG-SVGs are perfect for logos, icons, and other types of illustrations. Unlike GIF, SVG is a vector file that contains instructions for drawing rather than individual pixels. This means it can be scaled to any size without losing quality, and the file size remains small. 
 
 Workng with figures and figcaption elements. 
 
