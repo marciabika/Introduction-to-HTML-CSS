@@ -61,6 +61,15 @@ Incorporating time and date inputs.
 
 
 Working with graphics and Adding images into HTML pages.
+
+There are four attributes that needs to be included for every image:
+
+SRC-Source which tells the browser which image file to load.
+
+ALT-Alternative which provides a text description of the image. It serves as a replacement for the image when it cannot be seen.
+
+Width an height- Which determines the size of the image.
+
 There are four main file formats commonly used on the web these days, each with its own strengths and weaknesses when it comes to compressing images. 
 GIF-GIFs are great for compressing illustrations that have large areas of the same color, but it falls short when it comes to photographs. It only supports 256 colors, and images can end up looking pixelated, unless you want that retro vibe. 
 
