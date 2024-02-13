@@ -13,7 +13,7 @@ HTML element is defined by an open tag<> and closing tag</>. There are empty ele
 Formatting and styling content in HTML.
 Formatting elements were designed to desplay special types of text. 
 The purpose of HTML markup is to give meaning to the content and help computers understand it. HTML contains several elements for defining text with a special meaning.
-These are the different types of elemenrs used to format and style text:
+These are the different types of elements used to format and style text:
 
 p-paragraph
 
@@ -50,6 +50,10 @@ To make it accessible to everyone, we need to address the issue of the label and
 Both methods work, and it is a matter of choosing the desired markup structure. You can test the connection by clicking on the label and ensuring that the focus jumps to the corresponding input. This is crucial for accessibility, as many people rely on this connection. Clicking on the label is a quick way to verify its functionality. 
 
 nav-List of links like home, contact us, about us e.t.c
+The <nav> tag is used for defining navigation sections on a
+webpage. It serves to organize and present links that facilitate
+user navigation within or outside the current webpage which helps
+users move around the website with ease.
 
 
 
