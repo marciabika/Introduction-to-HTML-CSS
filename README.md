@@ -37,7 +37,7 @@ dl-Difnition list
 
 dt-Unordered difnition list
 
-<dd></dd>Ordered difnition list
+dd-Ordered difnition list
 
 form-for creating a form
 
@@ -50,6 +50,7 @@ nav-List of links like home, contact us, about us e.t.c
 
 
 Incorporating time and date inputs.
+
 
 Working with graphics and Adding images into HTML pages.
 
