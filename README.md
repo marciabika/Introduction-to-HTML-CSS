@@ -1,6 +1,14 @@
 # Introduction-to-HTML
 
 Understanding the fundamental syntax of HTML elements-HTML element components. 
+HTML forms a foundation of website and web app development, it is a language that allows you to make sure your content is understandable to both people and computers.
+HTML serves as a chanel for different types of content like words, images, videos, audio, forms, and interactive expiriences. 
+Essentially, it forms a solid foundation for everything else in the digital realm.
+HTML has a straight forward structure without any programming logic, loops or functions. It is a devlarative language. It is all about using the right vocabulary and making declarations.
+HTML can handle a lot of abuse and still deliver a functional result.
+If HTML is broken because of a bug in a code, the browser guesses what you meant, and does its best to fix the bug itself. 
+HTML element is defined by an open tag<> and closing tag</>. There are empty elements without a closing tag like<br>(break).
+
 
 Formatting and styling content in HTML.
 
