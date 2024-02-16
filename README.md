@@ -61,8 +61,8 @@ Incorporating time and date inputs.
 
 
 Working with graphics and Adding images into HTML pages.
-
-There are four attributes that needs to be included for every image:
+Image elements are used to addd an image to a website, which is written as IMG
+ere are four attributes that needs to be included for every image:
 
 SRC-Source which tells the browser which image file to load.
 
@@ -80,6 +80,11 @@ PNG-PNG is a newer format that works well when you need transparency in a photog
 SVG-SVGs are perfect for logos, icons, and other types of illustrations. Unlike GIF, SVG is a vector file that contains instructions for drawing rather than individual pixels. This means it can be scaled to any size without losing quality, and the file size remains small. 
 
 Workng with figures and figcaption elements. 
+Ficaption element is used to wrap the text and designate it as a caption, by putting the image and the caption together in a figure element. 
+This will give the browser nore information about the content, like the relationship between the image and the caption. 
+It is not just the regular paragraph or a generic div. search engines and AI can understand that these two pieces of content are connected. 
+Figures can be used for more than just images. 
+Figures and figcaption elements are really useful for anything taht serves as a visual illustration or a demonstration of a concept that needs the caption. 
 
 Establishing hyperlinks and creating clickable links.
 
