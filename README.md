@@ -115,3 +115,15 @@ Using code inspector to debug HTML.
 Creating URLs.
 
 Working with the lang(language of a webpage) and charset(character set) attributes to help indicate the language of your content.
+
+INTRODUCTION TO JAVASCRIPT
+What is JavaScript
+JavaScript is a logic-based programming language that can be used to modify website content and make it behave in different ways in response to a user's actions.
+Common uses for JavaScript include confirmation boxes, calls-to-action, and adding new identities to existing information
+You can use Javascript to add dynamic behavior, store information, and handle requests and responses on a website
+
+What is DOM
+The Document Object Model is an Application Programming Interface (API) for HTML and XML documents. It does two things for web developers:
+Provides a structural representation of the document
+Defines the way that that structure is to be accessed from script
+A function is a subprogram designed to perform a particular task
